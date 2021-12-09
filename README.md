@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# Magic Playlist
+Magic Playlist is a tool that helps to create playlist around your favourite song, favourite artist or based on your mood. <br />
+Preview, Play, Save and Play the playlist on Spotify. <br />
+<br />
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It uses Spotify SDK and Spotify Endpoints to play with music.
 
-## Available Scripts
+![1](https://user-images.githubusercontent.com/58820001/145360306-348eb21b-470e-417d-9d02-71f6f3732b50.jpg)
+![2](https://user-images.githubusercontent.com/58820001/145360313-a60f280c-0a32-4050-b1d7-4d020cb43eca.jpg)
+![3](https://user-images.githubusercontent.com/58820001/145360321-8f7b12f6-81e7-4eaf-b2c7-46d11779893d.jpg)
+![4](https://user-images.githubusercontent.com/58820001/145360330-e252a4fc-03a6-4522-bd23-51925af5a7fb.jpg)
+![5](https://user-images.githubusercontent.com/58820001/145360333-d2439c30-6491-4b26-86f9-506f8c5aff9b.jpg)
 
-In the project directory, you can run:
 
-### `npm start`
+Go to [Magic Playlist](https://magic-playlist-spotify.web.app/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Features
+> 1. Create an Awesome playlist based on a song.
+> 2. Play audio preview (Full length on PC, 30 seconds on Mobile).
+> 3. Add More songs by choice based on your taste. 
+> 4. Save and play Playlist on Spotify.
+> 5. Play Newly Created Playlist in the website.
+> 6. Create playlist based on your mood or genre taste.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Stack
+> 1. React
+> 2. Redux
+> 3. Spotify SDK 
+> 4. Spotify Endpoints
+> 5. React Router
+> 6. Material UI
+> 7. Firebase Hosting
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Made with ❤️ from Mayank Rana.
+[Magic Playlist](https://magic-playlist-spotify.web.app/)
