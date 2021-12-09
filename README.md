@@ -1,6 +1,6 @@
 # Magic Playlist
 Magic Playlist is a tool that helps to create playlist around your favourite song, favourite artist or based on your mood. <br />
-Preview, Play, Save and Play the playlist on Spotify. <br />
+Preview, Save and Play the playlist on Spotify. <br />
 <br />
 
 It uses Spotify SDK and Spotify Endpoints to play with music.
